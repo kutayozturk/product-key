@@ -19,7 +19,7 @@ Bu örnekteki ürün anahtarı, 4 segmentten oluşur ve her segment 5 karakter u
 
 ---
 
-İşte C++ dilindeki bazı yaygın kütüphaneler ve bunların kısa açıklamaları:
+# İşte C++ dilindeki bazı yaygın kütüphaneler ve bunların kısa açıklamaları:
 ### iostream
 
 Bu kütüphane, C++ dilinde giriş/çıkış (input/output) işlemleri için kullanılır. cin, cout, cerr, clog gibi temel giriş/çıkış nesnelerini sağlar.
